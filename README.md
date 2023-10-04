@@ -4,7 +4,7 @@ I'm a product-oriented software engineer and problem solver. I'm currently worki
 
 <div align="start">
       <h3> :hammer_and_wrench: Languages and Tools </h3>
-      <div align="center" style="display: flex; align-items: center;">
+      <div align="start" style="display: flex; align-items: center;">
         <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
         <img align="center" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
         <img align="center" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
