@@ -7,18 +7,22 @@ I'm a product-oriented software engineer and problem solver. I'm currently worki
 [Nimbus: An app for monitoring AWS Lambda](https://github.com/oslabs-beta/Nimbus) 
 
 A free, open-source application that displays key metrics and logs related to AWS Lambda functions and APIs, allowing developers to seamlessly monitor their backend components: keep track of traffic to endpoints, identify errors, estimate cost, etc.
+*TypeScript, React, Node, DynamoDB, AWS Elastic Beanstalk*
 
 [Tracecheck: A Go linter to add a trace ID to log declaration](https://github.com/george-maroun/tracecheck)
 
 A Go linter to add trace and span IDs generated from function contexts to log declarations, enhancing observability.
+*Go, AST, Analysis*
 
 [Webpack Generator: No-code solution for creating a Webpack config file](https://github.com/WebpackGenerator/WebpackGenerator)
 
 An app that allows a user to configure a Webpack file by manually checking options. The user can then download the file to their project directory, increasing ramp-up speed.
+*JavaScript, React, Node, MongoDB*
 
 [UnMasked: A portfolio view for Metamask crypto wallet](https://github.com/george-maroun/Unmasked) 
 
 An app that displays a user's crypto wallet in a portfolio view with key metrics: net worth, token distribution, yearly gains/losses. UnMasked gives a clear view on wallet to help the user make better trades.
+*JavaScript, React, Ethers, ChartJS*
 
 
 <div align="start">
