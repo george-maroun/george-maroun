@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm George
 
-I'm a product-oriented software engineer and problem solver. I'm currently working on AI-powered developer tools for code generation and debugging using large language models. I enjoy building apps with real-world utility, especially ones that help other devs.
+I'm a product-oriented software engineer and problem solver. I'm currently helping founders build software products and bootstrap their company through Nero, my web3-focused dev agency.
 
 ### 🏗️ Past projects
 
