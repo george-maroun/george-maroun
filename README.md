@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm George
 
-I'm a product-oriented software engineer and problem solver. I'm currently helping founders build software products and bootstrap their company through Nero, my web3-focused dev agency.
+I'm a product-oriented software engineer and problem solver. I'm currently building software products in web3.
 
 ### 🏗️ Past projects
 
