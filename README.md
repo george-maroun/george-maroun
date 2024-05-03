@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm George
 
-I'm a product-oriented software engineer and problem solver. I'm currently building software products in web3.
+I'm a software engineer and problem solver. I'm currently building software products in web3.
 
 ### 🏗️ Past projects
 
