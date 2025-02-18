@@ -8,7 +8,7 @@ I'm a software engineer and problem solver. I'm currently building software prod
 
 A dashboard that tracks various metrics related to the Glow Protocol: power output of solar farms, carbon credits produced, token price, etc. Glow Stats allows community members and stakeholders to track the performance of Glow and its impact to curb CO2 emissions.
 
-*TypeScript, React, Node, DynamoDB, AWS Elastic Beanstalk*
+*TypeScript, React, Next, Shadcn*
 
 [Nimbus: A tool for monitoring AWS Lambda](https://github.com/oslabs-beta/Nimbus) 
 
