@@ -4,7 +4,7 @@ I'm a software engineer and problem solver. I'm currently building software prod
 
 ### 🏗️ Past projects
 
-[Glow Stats: A dashboard to track metrics related to Glow (glow.org)](https://github.com/george-maroun/glow-stats) 
+[Glow Stats: A dashboard to track metrics related to Glow (glow.org)](https://glowstats.xyz) 
 
 A dashboard that tracks various metrics related to the Glow Protocol: power output of solar farms, carbon credits produced, token price, etc. Glow Stats allows community members and stakeholders to track the performance of Glow and its impact to curb CO2 emissions.
 
